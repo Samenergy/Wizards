@@ -1,5 +1,5 @@
-HEAD
+<<<<<<< HEAD
 hello ! ! world
+=======
 Hellogit checkout -b ngumdieu_branch World
-origin/ngumdieu_branch
-
+>>>>>>> origin/ngumdieu_branch
