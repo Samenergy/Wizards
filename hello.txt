@@ -1,5 +1,10 @@
+
 HEAD
 hello ! ! world
+
 Hellogit checkout -b ngumdieu_branch World
 origin/ngumdieu_branch
+
+Hello ! ! World
+origin/DianeInga_branch
 
